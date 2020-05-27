@@ -1,5 +1,5 @@
 {
-  pokemon: [
+  characters: [
     {
       id: 1,
       name: "Hermione",
