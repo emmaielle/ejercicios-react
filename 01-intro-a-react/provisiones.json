@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "name": "Frutillas"
+  },
+  {
+    "id": 2,
+    "name": "Uvas"
+  },
+  {
+    "id": 3,
+    "name": "Naranjas"
+  },
+  {
+    "id": 4,
+    "name": "Bananas"
+  },
+  {
+    "id": 5,
+    "name": "Manzanas"
+  },
+  {
+    "id": 6,
+    "name": "Zanahorias"
+  },
+  {
+    "id": 7,
+    "name": "Puerro"
+  },
+  {
+    "id": 8,
+    "name": "Champiñones"
+  },
+  {
+    "id": 9,
+    "name": "Pan"
+  },
+  {
+    "id": 10,
+    "name": "Huevos"
+  },
+  {
+    "id": 11,
+    "name": "Queso"
+  },
+  {
+    "id": 12,
+    "name": "Manteca"
+  },
+  {
+    "id": 13,
+    "name": "Pollo"
+  },
+  {
+    "id": 14,
+    "name": "Milanesa"
+  },
+  {
+    "id": 15,
+    "name": "Helado"
+  },
+  {
+    "id": 16,
+    "name": "Pescado"
+  },
+  {
+    "id": 17,
+    "name": "Arroz"
+  },
+  {
+    "id": 18,
+    "name": "Fideos"
+  },
+  {
+    "id": 19,
+    "name": "Bizcochos"
+  }
+]
