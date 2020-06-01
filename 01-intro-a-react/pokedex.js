@@ -1,33 +1,33 @@
 {
-  characters: [
+  pokemon: [
     {
       id: 1,
-      name: "Hermione",
-      house: "Gryffindor",
+      name: "Charmander",
+      type: "fire",
       image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
     },
     {
       id: 2,
-      name: "Luna",
-      house: "Ravenclaw",
+      name: "Squirtle",
+      type: "water",
       image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
     },
     {
       id: 3,
-      name: "Draco",
-      house: "Slytherin",
+      name: "Butterfree",
+      type: "flying",
       image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
     },
     {
       id: 4,
-      name: "Cho",
-      house: "Hufflepuff",
+      name: "Rattata",
+      type: "normal",
       image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
     },
     {
       id: 5,
-      name: "Ron",
-      house: "Gryffindor",
+      name: "Metapod",
+      type: "bug",
       image: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
     }
   ]
